@@ -5,4 +5,4 @@ training.Besides,Snake is also similar with a walking or climbing process.We not
 
 Acknowledgments
 
-I would like to extend my gratitude to [Patrick Loeber](https://www.youtube.com/c/PatrickLoeber) for his invaluable contributions to my learning process. His informative and engaging YouTube videos have provided me with the knowledge and inspiration. Thank you, Patrick, for sharing your expertise and passion for coding!
+I would like to extend my gratitude to [Patrick Loeber](https://youtu.be/PJl4iabBEz0?si=SB9xh_A1ZW2V1Rtd) for his invaluable contributions to my learning process. His informative and engaging YouTube videos have provided me with the knowledge and inspiration. Thank you, Patrick, for sharing your expertise and passion for coding!
